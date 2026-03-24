@@ -114,28 +114,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dr. E.P Sajitha"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a **physicist** and the **founder of Effectual Learning**, driving innovation in STEM learning through AI-powered visual simulations and scientific thinking frameworks."
+  location         : "Doha, Qatar"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:sajim@effectuall.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://online3d.github.io/online3d/"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
+      url: "https://x.com/sajithaep"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/online3d"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
